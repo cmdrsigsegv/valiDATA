@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "valiDATA: a last look at a job before it is submitted"
+abstract: >-
+  A terminal program (jobcheck) that shows the values that matter in the
+  input files and scripts of a cluster job, and runs the submit command only
+  once each of them has been confirmed. It marks what differs from the last
+  submission, adds up the requested cores and core-hours, and logs every
+  submission with its values.
+authors:
+  - family-names: Els
+    given-names: Paul Lodewyk
+    orcid: "https://orcid.org/0000-0003-2141-7705"
+    affiliation: "Centre for mathematical Plasma Astrophysics, KU Leuven"
+version: "1.0.0"
+date-released: "2026-11-14"
+license: Apache-2.0
+repository-code: "https://github.com/cmdrsigsegv/valiDATA"
+keywords:
+  - high-performance computing
+  - job submission
+  - Slurm
+  - PBS
+  - research software
+doi: 10.5281/zenodo.24228555
