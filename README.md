@@ -202,10 +202,11 @@ in.
 
 ## Citing
 
-If valiDATA is useful in your work, please cite the archived release:
+If valiDATA is useful in your work, please cite the archived release. This
+DOI always points to the latest version:
 
-> Els, P.L. (2026). valiDATA: job validation tool pre-submission
-> (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24228555
+> Els, P.L. (2026). valiDATA: job validation tool pre-submission.
+> Zenodo. https://doi.org/10.5281/zenodo.24228554
 
 ## Licence
 
